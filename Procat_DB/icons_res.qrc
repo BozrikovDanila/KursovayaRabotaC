@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/all_icons">
+        <file>icons/info_act.png</file>
+        <file>icons/manual_act.png</file>
+        <file>icons/new_act.png</file>
+        <file>icons/open_act.png</file>
+        <file>icons/quit_act.png</file>
+        <file>icons/save_act.png</file>
+        <file>icons/saveAs_act.png</file>
+        <file>icons/program_icon.png</file>
+    </qresource>
+</RCC>
